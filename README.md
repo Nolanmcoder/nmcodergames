@@ -1,3 +1,3 @@
 # nmcodergames
-https://nolanmcoder.github.io/nolanmcoder.github.io-fnfbase/
-https://nolanmcoder.github.io/retbowl/
+Friday Night Funkin' https://nolanmcoder.github.io/nolanmcoder.github.io-fnfbase/
+Retro Bowl https://nolanmcoder.github.io/retbowl/
